@@ -1,4 +1,4 @@
-# FRi_230517
+# top ,ps , jobs,kill 에 대한 조사
 
 
 ## top
