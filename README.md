@@ -9,21 +9,13 @@
 
 ## top의 옵션
 
-```c
-include <stdio.h>
+- shitf + p : CPU 사용량이 큰 순으로 정렬
+- shift + m : 메모리 사용량이 큰 순으로 정렬
+- shitf + t : 실행된 시간이 큰 순으로 정렬 
+- k : 프로세스 종료
+- c : 명령인자 표시/비표시
+- u : 입력한 유저소유의 프로세스만 표시
+- q : 명령어 종료
 
-int main(void){
-return 0;
-}
-```
-
-```bash
-echo "Hello World" > main.c
-```
-> wow
->>qgwlhnerlbb
-
-*기울임*
-**굻게**게
-***기울이고 굵게***
+##
 
