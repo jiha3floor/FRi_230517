@@ -120,9 +120,11 @@
 ### ps의 사용
 
 >ps의 실행화면
+
 ![png](https://user-images.githubusercontent.com/85490910/240109262-5b983948-d830-4920-935d-958b2ab882b5.PNG)
 
 >ps -elf의 실행화면
+
 ![png](https://user-images.githubusercontent.com/85490910/240109256-e8b4f8ae-3d52-4c59-8242-e583a7198750.PNG)
 
 >UID : 프로세스 소유자의; 이름
