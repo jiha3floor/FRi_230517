@@ -17,5 +17,11 @@
 - u : 입력한 유저소유의 프로세스만 표시
 - q : 명령어 종료
 
-##
+## top의 사용
+
+![image](https://user-images.githubusercontent.com/85490910/240101268-fbd6ab5e-4fd0-4b25-bf8c-894f44a6ff62.png)
+>top의 실행 화면
+
+![image](https://user-images.githubusercontent.com/85490910/240101268-fbd6ab5e-4fd0-4b25-bf8c-894f44a6ff62.png)
+
 
