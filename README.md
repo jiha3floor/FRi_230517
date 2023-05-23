@@ -1,24 +1,13 @@
 # FRi_230517
-Helloworld_230517
 
-Heading 1
+
 # Heading 2
-## Heading 3
-### Heading 6
+## top의 역할
 
-* Bullet 1
-* Bullet 2
-* Bullet 3
+- CPU와 메모리 이용에 관한 정보를 표시
+- 옵션 없이 입력시 3초 간격으로 화면을 갱신
 
-+ Option 1
-+ Option 2
-+ Option 3
-
-- Number 1
-- Number 2
-- Number 3
-
-`printf("Hello World");`
+## top의 옵션
 
 ```c
 include <stdio.h>
