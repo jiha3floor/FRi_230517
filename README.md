@@ -22,6 +22,24 @@
 ![image](https://user-images.githubusercontent.com/85490910/240101268-fbd6ab5e-4fd0-4b25-bf8c-894f44a6ff62.png)
 >top의 실행 화면
 
-![image](https://user-images.githubusercontent.com/85490910/240101268-fbd6ab5e-4fd0-4b25-bf8c-894f44a6ff62.png)
+![image](https://user-images.githubusercontent.com/85490910/240101269-0d4a3e88-d799-4b7c-83a6-cc5859cc65cc.png)
+>23:57:41 : 현재시간
+>
+>6 min : uptime
+>
+>0 users : 현재 접속된 사용자
+>
+>load average : CPU의 부하율 좌측 부터 1분, 5분, 15분 평균을 측정 
+
+![imgage](https://user-images.githubusercontent.com/85490910/240101264-d695143b-d76c-41c0-9b05-4d9e48379b1b.png)
+>Tasks : 총 4개의 프로세스가 가동중
+>
+>running : 1개의 프로세스가 작동중
+>
+>sleeping : 3개의 프로세스가 대기중
+>
+>stopped : 0개의 프로세스가 멈춘 상태
+>
+>zombie :  0개의 프로세스가 좀비 상태
 
 
